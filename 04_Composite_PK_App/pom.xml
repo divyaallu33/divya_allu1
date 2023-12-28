@@ -10,6 +10,7 @@ This is Chinni
 		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	//Here is pom//
 	<groupId>in.ashokit</groupId>
 	<artifactId>04_Composite_PK_App</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
