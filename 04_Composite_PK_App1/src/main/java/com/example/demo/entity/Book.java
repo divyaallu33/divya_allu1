@@ -1,5 +1,5 @@
 package com.example.demo.entity;
-
+Chinni
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
